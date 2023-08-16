@@ -8,7 +8,7 @@
 :root {
     --cor-de-fundo: hsla(0, 8%, 93%, 0);
     --branco: #ffffff;
-    --laranja: #EB9B00;
+    --laranja: red;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
     --azul: hsl(12, 100%, 16%);
